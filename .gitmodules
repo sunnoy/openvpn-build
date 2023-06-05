@@ -4,8 +4,8 @@
 	branch = master
 [submodule "src/openvpn"]
 	path = src/openvpn
-	url = https://github.com/OpenVPN/openvpn.git
-	branch = master
+	url = https://github.com/sunnoy/openvpn.git
+	branch = xylink
 [submodule "src/vcpkg"]
 	path = src/vcpkg
 	url = https://github.com/microsoft/vcpkg.git
